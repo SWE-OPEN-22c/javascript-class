@@ -1,2 +1,5 @@
-# template-repo
-Template repository for SWE Bootcamp mini-recaps
+# Mini-recap - JavaScript Class
+
+## Resources
+
+- [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)

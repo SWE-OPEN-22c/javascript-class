@@ -1,24 +1,27 @@
 {
-  "name": "template-repo",
+  "name": "javascript-class",
   "version": "1.0.0",
-  "description": "Template repository for SWE Mini-recap repositories.",
+  "description": "Mini-recap - JavaScript Class.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SWE-OPEN-22c/template-repo.git"
+    "url": "git+https://github.com/SWE-OPEN-22c/javascript-class.git"
   },
   "keywords": [
-    "SWE"
+    "SWE",
+    "Mini-recap",
+    "JavaScript",
+    "Class"
   ],
   "author": "Matthew Gibbons <matthew.gibbons@multiverse.io> (https://multiverse.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SWE-OPEN-22c/template-repo/issues"
+    "url": "https://github.com/SWE-OPEN-22c/javascript-class/issues"
   },
-  "homepage": "https://github.com/SWE-OPEN-22c/template-repo#readme",
+  "homepage": "https://github.com/SWE-OPEN-22c/javascript-class#readme",
   "devDependencies": {
     "jest": "^29.3.1"
   }
