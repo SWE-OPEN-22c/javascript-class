@@ -1,0 +1,25 @@
+{
+  "name": "template-repo",
+  "version": "1.0.0",
+  "description": "Template repository for SWE Mini-recap repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWE-OPEN-22c/template-repo.git"
+  },
+  "keywords": [
+    "SWE"
+  ],
+  "author": "Matthew Gibbons <matthew.gibbons@multiverse.io> (https://multiverse.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SWE-OPEN-22c/template-repo/issues"
+  },
+  "homepage": "https://github.com/SWE-OPEN-22c/template-repo#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
